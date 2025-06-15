@@ -29,24 +29,3 @@ This repository contains code implementations, concept assessments, and notes fr
 
 ---
 
-## 🛠️ Repo Structure
-
-ml-specialization-andrew-ng/
-│
-├── Supervised-Learning/
-│ ├── linear_regression.ipynb
-│ ├── logistic_regression.ipynb
-│ └── decision_tree_classifier.ipynb
-│
-├── Advanced-Algorithms/
-│ ├── neural_network_from_scratch.ipynb
-│ ├── regularization_examples.ipynb
-│ └── multi_class_classification.ipynb
-│
-├── Unsupervised-RL-Recommenders/
-│ ├── kmeans_clustering.ipynb
-│ ├── pca_visualization.ipynb
-│ ├── collaborative_filtering.ipynb
-│ └── q_learning_basics.ipynb
-│
-└── README.md
